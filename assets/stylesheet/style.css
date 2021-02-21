@@ -560,6 +560,7 @@ padding: 20px 0;
 	width: 740px;
 	background-color: white;
 	position: relative;
+    box-shadow: 1px 1px 8px rgb(235, 233, 233);
 	
 }
 .col-7{
@@ -612,13 +613,14 @@ padding: 20px 0;
 	border-radius: 4px;
 	padding: 10px 10px 0 10px; 
 	color: white;
-	top: 300px;
+	top: 320px;
 	
 }
 /*aside*/
 
 .blog-input{
 	padding: 10px;
+    width: 90%;
 }
 .aside i{
 	width: 42px;
